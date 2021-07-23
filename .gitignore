@@ -63,3 +63,6 @@ typings/
 
 # test file
 zapier.test.js
+
+#zapier file
+.zapierapprc
